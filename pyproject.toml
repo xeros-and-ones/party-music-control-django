@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "spotify-django-react"
+version = "0.1.0"
+description = "A Music Controller Frontend For parties that allow guests to have some control over played music"
+authors = ["Mohamed Tarek <mohamed96tarek@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+django = "^4.2.7"
+djangorestframework = "^3.14.0"
+django-stubs = "^4.2.6"
+djangorestframework-stubs = "^3.14.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
