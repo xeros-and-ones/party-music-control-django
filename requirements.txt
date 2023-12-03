@@ -1,0 +1,20 @@
+asgiref==3.7.2
+certifi==2023.11.17
+charset-normalizer==3.3.2
+Django==4.2.7
+django-stubs==4.2.6
+django-stubs-ext==4.2.5
+djangorestframework==3.14.0
+djangorestframework-stubs==3.14.4
+idna==3.6
+-e git+ssh://git@github.com/xeros-and-ones/party-music-control-django.git@ab38188009df479e4b77b660721ca68a7716e888#egg=music_controller
+mypy==1.7.1
+mypy-extensions==1.0.0
+pytz==2023.3.post1
+requests==2.31.0
+sqlparse==0.4.4
+types-pytz==2023.3.1.1
+types-PyYAML==6.0.12.12
+types-requests==2.31.0.10
+typing_extensions==4.8.0
+urllib3==2.1.0
