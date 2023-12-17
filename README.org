@@ -1,4 +1,4 @@
-#+TITLE: Description for the party control webapp using Django & ReactJS
+#+TITLE: Party control webapp using Django & ReactJS
 #+AUTHOR: Mohamed Tarek
 #+EMAIL: mohamed96tarek@hotmail.com
 
