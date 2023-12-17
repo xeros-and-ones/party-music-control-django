@@ -1,2 +1,8 @@
-* Description
-A web application for people in
+#+TITLE: Description for the party control webapp using Django & ReactJS
+#+AUTHOR: Mohamed Tarek
+#+EMAIL: mohamed96tarek@hotmail.com
+
+
+* Introduction
+A web application That gives people in the party control over the music played.
+Not Just the host.
